@@ -5,6 +5,7 @@ A curated list of amazingly awesome awesomeness.
     - [Package-Manager](https://github.com/damon-kwok/awesome-package-manager)
 
 - Programming Languages
+	- [Ada(Spark)](https://github.com/ohenley/awesome-ada)	
 	- [Ansible](https://github.com/jdauphant/awesome-ansible)
 	- [AutoHotkey](https://github.com/ahkscript/awesome-AutoHotkey)
 	- [AutoIt](https://github.com/J2TeaM/awesome-AutoIt)
@@ -64,6 +65,7 @@ A curated list of amazingly awesome awesomeness.
 	- [OCaml](https://github.com/ocaml-community/awesome-ocaml)
 	- [Perl](https://github.com/hachiojipm/awesome-perl)
 	- [PHP](https://github.com/ziadoz/awesome-php)
+		- [CakePHP](https://github.com/FriendsOfCake/awesome-cakephp)
 	- [Postgres](https://github.com/dhamaniasad/awesome-postgres)
 	- Python
 		- [by @kirang89](https://github.com/kirang89/pycrumbs)
@@ -98,7 +100,7 @@ A curated list of amazingly awesome awesomeness.
 		- [by @a11yproject](https://github.com/a11yproject/a11yproject.com)
 		- [by @brunopulis](https://github.com/brunopulis/awesome-a11y)
 	- [Agile](https://github.com/lorabv/awesome-agile)
-	- [Agolia](https://github.com/algolia/awesome-algolia)
+	- [Algolia](https://github.com/algolia/awesome-algolia)
 	- [Algorithms](https://github.com/tayllan/awesome-algorithms)
 		- [Algorithms Visualisation](https://github.com/enjalot/algovis)
 		- [Big O Notation](https://github.com/okulbilisim/awesome-big-o)
@@ -155,6 +157,7 @@ A curated list of amazingly awesome awesomeness.
 	- [Building Blocks for Web Apps](https://github.com/componently-com/awesome-building-blocks-for-web-apps)
 	- [Web Effect](https://github.com/lindelof/awesome-web-effect)
 	- [Landing Page](https://github.com/nordicgiant2/awesome-landing-page)
+	- [Capacitor](https://github.com/riderx/awesome-capacitor)
 	- [Captcha](https://github.com/ZYSzys/awesome-captcha)
 	- [Challenges](https://github.com/mauriciovieira/awesome-challenges)
 	- [Code Formatters](https://github.com/rishirdua/awesome-code-formatters)
@@ -175,6 +178,7 @@ A curated list of amazingly awesome awesomeness.
 	- [CSS](https://github.com/sotayamashita/awesome-css)
 		- [CSS Frameworks](https://github.com/troxler/awesome-css-frameworks)
 	- [Data Science](https://github.com/bulutyazilim/awesome-datascience)
+		- [Notebooks](https://github.com/jupyter-naas/awesome-notebooks) 
 		- Data Science with Python
 		  	- [by @r0f1](https://github.com/r0f1/datascience)
 			- [by @krzjoa](https://github.com/krzjoa/awesome-python-data-science)
@@ -202,6 +206,7 @@ A curated list of amazingly awesome awesomeness.
 	- [Dotfiles](https://github.com/webpro/awesome-dotfiles)
 	- [Electron](https://github.com/sindresorhus/awesome-electron)
 	- [Emacs](https://github.com/emacs-tw/awesome-emacs)
+	- [Embedded](https://github.com/nhivp/Awesome-Embedded)
 	- [Ethics](https://github.com/HussainAther/awesome-ethics)
 	- [Falsehood](https://github.com/kdeldycke/awesome-falsehood)
 	- [FastAPI](https://github.com/mjhea0/awesome-fastapi)
@@ -210,6 +215,7 @@ A curated list of amazingly awesome awesomeness.
 	- [FluidApp Resources](https://github.com/lborgav/awesome-fluidapp)
 	- [Flutter](https://github.com/Solido/awesome-flutter)
 	- [Fonts](https://github.com/brabadu/awesome-fonts)
+	- [Free Open Source Software (FOSS)](https://github.com/ishanvyas22/awesome-open-source-systems)
 	- [Fraud Detection Papers](https://github.com/benedekrozemberczki/awesome-fraud-detection-papers)
 	- [Free Services](https://github.com/ripienaar/free-for-dev)
 	- Frontend
@@ -231,13 +237,16 @@ A curated list of amazingly awesome awesomeness.
 	- Guides
 		- [by @narkoz](https://github.com/narkoz/guides)
 		- [by @RichardLitt](https://github.com/RichardLitt/awesome-styleguides)
-	- [Hacking](https://github.com/carpedm20/awesome-hacking)
+	- Hacking
+		- [by @carpedm20](https://github.com/carpedm20/awesome-hacking)
+		- [by @Hack-with-Github](https://github.com/Hack-with-Github/Awesome-Hacking)
 	- [HTML5](https://github.com/diegocard/awesome-html5)
 	- [Honeypots](https://github.com/paralax/awesome-honeypots)
 	- [Hyper](https://github.com/bnb/awesome-hyper)
 	- [Incident Response](https://github.com/meirwah/awesome-incident-response)
 	- [Images](https://github.com/heyalexej/awesome-images)
 	- [Image coloring](https://github.com/oskar-j/awesome-image-coloring)
+	- [Internationalization](https://github.com/jpomykala/awesome-i18n)
 	- [Internet of Things (IOT)](https://github.com/HQarroum/awesome-iot)
 	- [iOS](https://github.com/vsouza/awesome-ios)
 		- [Cocoa Controls](https://github.com/v-braun/awesome-cocoa)
@@ -334,7 +343,7 @@ A curated list of amazingly awesome awesomeness.
 	- [Swedish](https://github.com/gurre/awesome-swedish-opensource)
 	- [Sysadmin](https://github.com/kahun/awesome-sysadmin)
 	- [Taglines](https://github.com/miketheman/awesome-taglines)
-	- [Tailwind CSS](https://github.com/merchedhq/awesome-tailwindcss)
+	- [Tailwind CSS](https://github.com/aniftyco/awesome-tailwindcss)
 	- [Talks](https://github.com/JanVanRyswyck/awesome-talks)
 		- [Gaming](https://github.com/hzoo/awesome-gametalks)
 	- [Telegram](https://github.com/ebertti/awesome-telegram)
